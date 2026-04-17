@@ -1,2 +1,5 @@
-const CartSlice = {};
+const CartSlice = {
+  items: []
+};
+
 export default CartSlice;
