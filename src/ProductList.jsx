@@ -1,5 +1,10 @@
 function ProductList() {
-  return <h1>Products</h1>;
+  return (
+    <div>
+      <h2>Products</h2>
+      <p>List of plants will be displayed here.</p>
+    </div>
+  );
 }
 
 export default ProductList;
