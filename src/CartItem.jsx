@@ -1,5 +1,9 @@
 function CartItem() {
-  return <h1>Cart Item</h1>;
+  return (
+    <div>
+      <h2>Cart Item</h2>
+    </div>
+  );
 }
 
 export default CartItem;
